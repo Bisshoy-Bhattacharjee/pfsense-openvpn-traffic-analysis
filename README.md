@@ -191,7 +191,6 @@ Together, the captures provided evidence that the VPN tunnel was carrying client
 
 | Path | Description |
 |---|---|
-| `report/` | Formal lab report with configuration details and packet analysis |
 | `captures/` | Outer and inner PCAP files |
 | `screenshots/` | Configuration, connection, routing, and Wireshark evidence |
 
