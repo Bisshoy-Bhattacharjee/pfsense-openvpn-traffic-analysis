@@ -148,7 +148,7 @@ Wireshark identified the packets as `P_DATA_V2`, indicating OpenVPN data-channel
 
 The original ICMP packet contents were not directly visible in this outer capture because they were encapsulated within the VPN data channel.
 
-![Outer OpenVPN traffic](screenshots/11-outer-traffic-wireshark.png)
+![Outer OpenVPN traffic](11-outer-traffic-wireshark.png)
 
 ### 2. Inner VPN Traffic
 
@@ -168,7 +168,7 @@ The 10 captured frames consisted of:
 
 All five requests received corresponding replies.
 
-![Inner ICMP traffic](screenshots/12-inner-traffic-wireshark.png)
+![Inner ICMP traffic](12-inner-traffic-wireshark.png)
 
 ## Key Findings
 
